@@ -1,0 +1,22 @@
+{
+  "name": "commonpdf_testfiles",
+  "version": "0.0.0",
+  "description": "CommonPdf test pdf files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corymickelson/CommonPdf_TestFiles.git"
+  },
+  "keywords": [
+    "CommonPdf"
+  ],
+  "author": "Cory Mickelson <mickelsoncory@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corymickelson/CommonPdf_TestFiles/issues"
+  },
+  "homepage": "https://github.com/corymickelson/CommonPdf_TestFiles#readme"
+}
