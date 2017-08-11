@@ -1,6 +1,6 @@
 {
   "name": "commonpdf_testfiles",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CommonPdf test pdf files",
   "main": "index.js",
   "scripts": {
